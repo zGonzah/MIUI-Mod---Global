@@ -11,6 +11,7 @@ MIUI Global Mod for Redmi Note 11/NFC by LeoUuUr
 - Dirty flash from the previous build is possible
 - If u find a bug, report it in the support group
 - You can report bugs to: [XL/Ricolino Support](https://t.me/XL_La)
+- This is an hybrid rom, u can flash in recovery and fastboot
 
 ## Changelog
 • Fixed screen recorder problem, it was also given support for recording up to 60fps (90fps don't working)
