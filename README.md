@@ -1,4 +1,5 @@
 # MIUI Mod Global | Spes/N
+![Banner)](https://github.com/zGonzah/MIUI-Mod-Global/assets/83481962/776afd46-3c16-45aa-baae-60dd1014f884)
 MIUI Global Mod for Redmi Note 11/NFC by LeoUuUr
 
 ## Download
