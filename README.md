@@ -1,30 +1,17 @@
-# HyperOS POCOX3/NFC
-![HyperOS (1)](https://github.com/KevinMiranda26/HyperOS-POCOX3-NFC/assets/83476983/5d6b4d38-80e1-4f80-b8e3-3da794536502)
-HyperOS PORTS for POCO X3/NFC by Kevin Miranda
+# MIUI Mod Global | Spes/N
+MIUI Global Mod for Redmi Note 11/NFC by LeoUuUr
 
 ## Download
-- [GDrive](https://drive.google.com/file/d/1hMuN1FrKVbmY8Mfz5eqyq9cLAHcoAPyF/view?usp=drive_link)
+- [MIUI CC](https://drive.google.com/file/d/14XByC9Z87VCjYQ5iUiwueteKogreZZ71/view?usp=sharing)
+- [HyperOS CC](https://drive.google.com/file/d/1VjldfqfAd4f2CJLrTyVfG4SFQYd8LZA_/view?usp=sharing)
 
 ## Notes:
-- Use this [Recovery](https://t.me/PocoX3_Official/4346)
-- This is a first build, every bug report and feedback is good for next update.
-- The phone takes some time to move from splash logo while it's booting. Don't worry, it's a feature for smoothnes ;).
-- Ported from Diting (Xiaomi 12 Pro)
-- You can report bugs to: [Kevin Miranda](https://t.me/KevinMirandaPasiche)
+- Dirty flash from the previous build is possible
+- If u find a bug, report it in the support group
+- You can report bugs to: [XL/Ricolino Support](https://t.me/XL_La)
 
 ## Changelog
-31/01/'24:
-- Non-rooted build.
-- SilonT Kernel by default
-- Spoof:
-Games: Higher FPS.
-Google Photos: Unlimited Storage.
-Netflix: Spoof device as a different model.
-GMS: Integrity, Certification, SafetyNet. ROOT users should enable Denylist, Enforce denylist, and add Google Play Services.
-- Play Store by default.
-- This build doesn't contain extra modifications.
-
-
-
-
+• Fixed screen recorder problem, it was also given support for recording up to 60fps (90fps don't working)
+• Changed the weather app to HyperOS from xiaomi.eu
+• 2 versions have been made: with MIUI Control Center and with HyperOS Control Center, choose the one you like best
 
